@@ -1,2 +1,0 @@
-Enyim Memcached Client is release under Microsoft Permissive License. (http://www.codeplex.com/EnyimMemcached)
-Memcached Providers is release under Apache License. (http://www.codeplex.com/memcachedproviders)
