@@ -10,26 +10,25 @@
 將[memcached-win64-1.4.4-14.zip]解壓縮到C:\Program Files\memcached。
 
 
->* 將 memcached 註冊進 Windows 服務
->
->         memcached –d install
->
->
->*   啟動 memcached 服務
->
->         memcached –d start
->
->
->*   停止 memcached 服務
->
->           memcached –d stop
->
->*      將 memcached 服務從 Windows 服務中移除
->
->            memcached –d uninstall
->
+---
+將 memcached 註冊進 Windows 服務
+
+    memcached –d install
 
 
+啟動 memcached 服務
+
+    memcached –d start
+
+停止 memcached 服務
+
+    memcached –d stop
+
+將 memcached 服務從 Windows 服務中移除
+
+    memcached –d uninstall
+
+---
 
 
 ###下載 Memcached Providers###
